@@ -74,3 +74,8 @@
 ## 8. Misc. Resources
 + [Android Arsenal - Android Libraries Directory](https://android-arsenal.com/)
 + [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)
+
+## 9. Newsletter
+
++ [Android Weekly](https://androidweekly.net/)
++ [Android Newsletter by Google](https://developer.android.com/newsletter/)
